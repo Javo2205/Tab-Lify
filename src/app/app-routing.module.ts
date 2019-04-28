@@ -6,7 +6,8 @@ const routes: Routes = [
   { path: 'carne', loadChildren: './recetas/carne/carne.module#CarnePageModule' },
   { path: 'pollo', loadChildren: './recetas/pollo/pollo.module#PolloPageModule' },
   { path: 'pescado', loadChildren: './recetas/pescado/pescado.module#PescadoPageModule' },
-  { path: 'fajitas-de-res', loadChildren: './recetas/carne/recetario/fajitas-de-res/fajitas-de-res.module#FajitasDeResPageModule' },
+  { path: 'fajitas-de-res', loadChildren: './recetas/carne/recetario/fajitas-de-res/fajitas-de-res.module#FajitasDeResPageModule' },  { path: 'ensalada-pollo-bufaflo', loadChildren: './recetas/pollo/recetario/ensalada-pollo-bufaflo/ensalada-pollo-bufaflo.module#EnsaladaPolloBufafloPageModule' },
+
   
 ];
 @NgModule({
