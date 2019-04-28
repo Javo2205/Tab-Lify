@@ -7,6 +7,7 @@ import { IonicModule } from '@ionic/angular';
 
 import { FajitasDeResPage } from './fajitas-de-res.page';
 
+
 const routes: Routes = [
   {
     path: '',
@@ -19,7 +20,8 @@ const routes: Routes = [
     CommonModule,
     FormsModule,
     IonicModule,
-    RouterModule.forChild(routes)
+    RouterModule.forChild(routes),
+    
   ],
   declarations: [FajitasDeResPage]
 })
