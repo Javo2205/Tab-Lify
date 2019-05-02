@@ -1,13 +1,34 @@
-<app-header titulo="carne"></app-header>
+<ion-header no-border>
+    <ion-toolbar>
+
+        <ion-buttons slot="start">
+            <ion-back-button defaultHref="/"></ion-back-button>
+        </ion-buttons>
+
+        <ion-title>Carne</ion-title>
+    </ion-toolbar>
+
+    <ion-searchbar animated></ion-searchbar>
+    
+</ion-header>
 
 <ion-content padding>
 
-    <ion-list>
-    
-        <ion-item routerLink="/fajitas-de-res">
-            <ion-label>Fajita de res con nopales</ion-label>
+    <ion-list>    
+              
+        <ion-item   *ngFor="let c of componentes" 
+                    [routerLink]="c.redirectTo" detail> 
+            <ion-avatar slot="start">
+                <img [src]="c.img">
+            </ion-avatar> 
+            <ion-label>      
+                <h3>{{c.name}}</h3>
+                <p>{{c.calorias}}</p>
+            </ion-label>    
         </ion-item>
 
     </ion-list>
+
+    
 
 </ion-content>

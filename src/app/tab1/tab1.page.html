@@ -1,4 +1,4 @@
-<ion-header>
+<ion-header no-border>
   <ion-toolbar>
     <ion-title>
       Recetas
@@ -8,25 +8,13 @@
 
 <ion-content padding>
     
-  <ion-card routerLink="/carne" mode="ios">
-      <ion-img  src="/assets/res.jpg"></ion-img>
-      <ion-card-header>
-        <ion-card-title>Carne</ion-card-title>
-      </ion-card-header>
-  </ion-card>
+  <ion-card  [routerLink]="card.redirectTo" *ngFor="let card of slides">
 
-  <ion-card  routerLink="/pollo" mode="ios">
-    <ion-img src="/assets/pollo.jpg"></ion-img>
+    <img [src]="card.img">
+
     <ion-card-header>
-      <ion-card-title>Pollo</ion-card-title>
-    </ion-card-header>    
-</ion-card>
-
-<ion-card routerLink="/pescado" mode="ios">
-  <ion-img src="/assets/pescado.jpg"></ion-img>
-  <ion-card-header>
-    <ion-card-title>Pescado</ion-card-title>
-  </ion-card-header>
-</ion-card>
+      <ion-card-title>{{card.titulo}}</ion-card-title>
+    </ion-card-header>
+  </ion-card>
     
 </ion-content>
