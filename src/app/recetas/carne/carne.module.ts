@@ -8,6 +8,8 @@ import { IonicModule } from '@ionic/angular';
 import { CarnePage } from './carne.page';
 import { ComponentsModule } from '../../components/components.module';
 
+
+
 const routes: Routes = [
   {
     path: '',
