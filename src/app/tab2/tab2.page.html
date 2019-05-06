@@ -23,14 +23,12 @@
 
         <ion-card-content>
           {{slide.desc}}
-        </ion-card-content>
-
+        </ion-card-content> 
         
 
-          <ion-button fill="clear">
-              Ir a consejos
-            <ion-icon mode="ios" name="arrow-forward">Ir a consejos</ion-icon> 
-          </ion-button>
+        <ion-button [routerLink]="slide.redirectTo" fill="clear">
+          Ir a consejos             
+        </ion-button>
             
         
 

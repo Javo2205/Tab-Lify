@@ -8,15 +8,16 @@
         <ion-title>Carne</ion-title>
     </ion-toolbar>
 
-    <ion-searchbar animated></ion-searchbar>
+    
     
 </ion-header>
 
+
+
 <ion-content padding>
 
-    <ion-list>    
-              
-        <ion-item   *ngFor="let c of componentes" 
+    <ion-list>                 
+        <ion-item   *ngFor=" let c of recetas " 
                     [routerLink]="c.redirectTo" detail> 
             <ion-avatar slot="start">
                 <img [src]="c.img">

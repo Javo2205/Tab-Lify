@@ -11,20 +11,20 @@ export class Tab2Page {
     {
       img: '/assets/bicicleta.svg',
       titulo: 'Haz ejercicio',
-      desc: 'Mira y comparte increíbles fotos de todo el mundo',
-      redirectTo:'',
+      desc: 'Hacer ejercicio regularmente, al menos 3-5 veces a la semana.',
+      redirectTo:'/comer-bien',
     },
     {
       img: '/assets/vegetables.svg',
       titulo: 'Come sano',
-      desc: 'Toda tu música favorita está aquí',
-      redirectTo:'',
+      desc: 'Mira todas la recomendaciones que tenemos para ti, para poder llevar una alimentacion sana',
+      redirectTo:'/comer-bien',
     },
     {
       img: '/assets/bed.svg',
       titulo: 'Duerme bien',
-      desc: 'El mejor calendario del mundo a tu disposición',
-      redirectTo:'',
+      desc: 'Mira los beneficios que tienes cuando duermes el tiempo suficiente',
+      redirectTo:'/dormir-bien',
     }
   ];
 

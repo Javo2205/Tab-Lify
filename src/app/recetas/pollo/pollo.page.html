@@ -7,8 +7,6 @@
     
             <ion-title>Pollo</ion-title>
         </ion-toolbar>
-    
-        <ion-searchbar animated></ion-searchbar>
         
     </ion-header>
 
@@ -16,7 +14,7 @@
 
         <ion-list>    
               
-                <ion-item   *ngFor="let c of componentes" 
+                <ion-item   *ngFor="let c of recetas" 
                             [routerLink]="c.redirectTo" detail> 
                     <ion-avatar slot="start">
                         <img src="/assets/pollo.jpg">

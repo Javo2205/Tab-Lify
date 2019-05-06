@@ -39,6 +39,8 @@ const routes: Routes = [
   { path: 'sopa-blanca', loadChildren: './recetas/pollo/recetario/sopa-blanca/sopa-blanca.module#SopaBlancaPageModule' },
   { path: 'sopa-pollo', loadChildren: './recetas/pollo/recetario/sopa-pollo/sopa-pollo.module#SopaPolloPageModule' },
   { path: 'garbanzoa', loadChildren: './recetas/pollo/recetario/garbanzoa/garbanzoa.module#GarbanzoaPageModule' },
+  { path: 'comer-bien', loadChildren: './tab2/comer-bien/comer-bien.module#ComerBienPageModule' },
+  { path: 'dormir-bien', loadChildren: './tab2/dormir-bien/dormir-bien.module#DormirBienPageModule' },
 
   
 ];
