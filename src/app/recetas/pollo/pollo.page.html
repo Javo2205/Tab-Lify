@@ -17,7 +17,7 @@
                 <ion-item   *ngFor="let c of recetas" 
                             [routerLink]="c.redirectTo" detail> 
                     <ion-avatar slot="start">
-                        <img src="/assets/pollo.jpg">
+                        <img [src]="c.img">
                     </ion-avatar> 
                     <ion-label>      
                         <h3>{{c.name}}</h3>

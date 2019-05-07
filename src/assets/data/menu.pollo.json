@@ -1,55 +1,66 @@
 [
     {
+      "img": "assets/pollo.jpg",
       "name":"Ensalada pollo buffalo",
       "redirectTo":"/ensalada-pollo-bufalo",
       "calorias": "379 kcal"
     },
     {
+      "img": "assets/recetario/pollo/brocoli.jpg",
       "name": "Pollo al sesamo con arroz y brocoli",
       "redirectTo": "/sesamo",
       "calorias": "469 kcal"
     },
     {
+      "img": "assets/recetario/pollo/patatas.jpg",
       "name": "Pollo con patatas",
       "redirectTo": "/patatas",
       "calorias": "299 kcal"
     },
     {
+      "img": "assets/recetario/pollo/mediterraneo.jpg",
       "name": "Pollo mediterraneo con tomates",
       "redirectTo": "/mediterraneo",
       "calorias": "298 kcal"
     },
     {
+      "img": "assets/recetario/pollo/mango.jpg",
       "name": "Sandwich de pollo al mango",
       "redirectTo": "/mango",
       "calorias": "353 kcal"
     },
     {
+      "img": "assets/recetario/pollo/alfredo.jpg",
       "name": "Pollo Alfredo con espaguetis de calabacin",
       "redirectTo": "/alfredo",
       "calorias": "534 kcal"
     },
     {
+      "img": "assets/recetario/pollo/quinoa.jpg",
       "name": "Pechuga de pollo con quinoa de verduras",
       "redirectTo": "/quinoa",
       "calorias": "418 kcal"
     },
     {
+      "img": "assets/recetario/pollo/burritos.jpg",
       "name": "Burritos de pollo al horno",
       "redirectTo": "/burrito",
       "calorias": "373 kcal"
     },
     {
+      "img": "assets/recetario/pollo/sopa_blanca.jpg",
       "name": "Sopa blanca de pollo",
       "redirectTo": "/sopa-blanca",
       "calorias": "226 kcal"
     },
     {
+      "img": "assets/recetario/pollo/sopa_pasta.jpg",
       "name": "Sopa de pollo y pasta",
       "redirectTo": "/sopa-pollo",
       "calorias": "190 kcal"
     },
     {
+      "img": "assets/recetario/pollo/garbanzos.jpg",
       "name": "Pollo piacnte con garbanzos",
       "redirectTo": "/garbanzoa",
       "calorias": "298 kcal"
