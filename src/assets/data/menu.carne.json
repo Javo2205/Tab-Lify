@@ -64,5 +64,77 @@
       "name": "Solomillo de ternera con ensalda caliente de arroz",
       "redirectTo": "/solomillo",
       "calorias": "501 kcal"
+    },
+    {
+      "img": "/assets/recetario/carne/rabano.jpeg",
+      "name": "Sopa de rabano y ternera",
+      "redirectTo": "/solomillo",
+      "calorias": "274 kcal"
+    },
+    {
+      "img": "/assets/recetario/carne/mexicano.jpeg",
+      "name": "Gratinado mexicano de ternera y judias",
+      "redirectTo": "/mexicano",
+      "calorias": "495 kcal"
+    },
+    {
+      "img": "/assets/recetario/carne/dumplings.jpeg",
+      "name": "Mandu de cerdo (dumplings coreanos)",
+      "redirectTo": "/dumplings",
+      "calorias": "535 kcal"
+    },
+    {
+      "img": "/assets/recetario/carne/albondigas.jpeg",
+      "name": "Albondigas con queso sobre espaguetis de calabacin",
+      "redirectTo": "/albondigas",
+      "calorias": "673 kcal"
+    },
+    {
+      "img": "/assets/recetario/carne/chuletas.jpeg",
+      "name": "Chuletas de cordero con costra de miel y mostaza",
+      "redirectTo": "/chuletas",
+      "calorias": "753 kcal"
+    },
+    {
+      "img": "/assets/recetario/carne/coreano.jpeg",
+      "name": "Arroz con curry coreano",
+      "redirectTo": "/coreano",
+      "calorias": "611 kcal"
+    },
+    {
+      "img": "/assets/recetario/carne/portobello.jpeg",
+      "name": "Hamburguesa portobello",
+      "redirectTo": "/portobello",
+      "calorias": "388 kcal"
+    },
+    {
+      "img": "/assets/recetario/carne/salados.jpeg",
+      "name": "Muffins salados de ternera con guacamole",
+      "redirectTo": "/salados",
+      "calorias": "319 kcal"
+    },
+    {
+      "img": "/assets/recetario/carne/goulash.jpeg",
+      "name": "Goulash facil",
+      "redirectTo": "/goulash",
+      "calorias": "572 kcal"
+    },
+    {
+      "img": "/assets/recetario/carne/ensalada_picante.jpeg",
+      "name": "Filete de ternera picante con ensalada de aguacate",
+      "redirectTo": "/ensalada-picante",
+      "calorias": "230 kcal"
+    },
+    {
+      "img": "/assets/recetario/carne/lowcarb.jpeg",
+      "name": "Hamburguesa low carb con huevo y espinacas",
+      "redirectTo": "/lowcarb",
+      "calorias": "522 kcal"
+    },
+    {
+      "img": "/assets/recetario/carne/arroz_verduras.jpeg",
+      "name": "Arroz con ternera y verduras",
+      "redirectTo": "/arroz-verduras",
+      "calorias": "527 kcal"
     }
   ]

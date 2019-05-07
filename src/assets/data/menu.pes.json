@@ -58,5 +58,65 @@
         "name": "Ensalda toscana caliente con atun",
         "redirectTo": "/ensalada-toscana",
         "calorias": "436 kcal"
+      },
+      {
+        "img": "assets/recetario/pescado/thai.PNG",
+        "name": "Ensalda Thai de verduras",
+        "redirectTo": "/thai",
+        "calorias": "592 kcal"
+      },
+      {
+        "img": "assets/recetario/pescado/filete_pata.PNG",
+        "name": "Filete de salmon con batatas y calabacin",
+        "redirectTo": "/batatas",
+        "calorias": "592 kcal"
+      },
+      {
+        "img": "assets/recetario/pescado/palitos.PNG",
+        "name": "Palitos de pescado",
+        "redirectTo": "/palitos",
+        "calorias": "426 kcal"
+      },
+      {
+        "img": "assets/recetario/pescado/vapor.PNG",
+        "name": "Huevos al vapor coreanos",
+        "redirectTo": "/vapor",
+        "calorias": "275 kcal"
+      },
+      {
+        "img": "assets/recetario/pescado/relleno.PNG",
+        "name": "Salmon relleno de espinacas y queso feta",
+        "redirectTo": "/feta",
+        "calorias": "513 kcal"
+      },
+      {
+        "img": "assets/recetario/pescado/salvaje.PNG",
+        "name": "Salmon salvaje con oure de coliflor",
+        "redirectTo": "/coliflor",
+        "calorias": "599 kcal"
+      },
+      {
+        "img": "assets/recetario/pescado/salteado_pata.PNG",
+        "name": "Salteado de batatas con gambas y espinacas",
+        "redirectTo": "/gambas",
+        "calorias": "448 kcal"
+      },
+      {
+        "img": "assets/recetario/pescado/pepino.PNG",
+        "name": "Snack de pepino con queso cottage",
+        "redirectTo": "/pepino",
+        "calorias": "364 kcal"
+      },
+      {
+        "img": "assets/recetario/pescado/tostada.PNG",
+        "name": "Tostada de salmon y huevo",
+        "redirectTo": "/tost-huevo",
+        "calorias": "352 kcal"
+      },
+      {
+        "img": "assets/recetario/pescado/aguacate.PNG",
+        "name": "Tostada de aguacate y salmon ahumado",
+        "redirectTo": "/ahumado",
+        "calorias": "486 kcal"
       }
     ]

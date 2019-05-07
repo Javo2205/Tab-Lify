@@ -12,7 +12,7 @@ export class Tab2Page {
       img: '/assets/bicicleta.svg',
       titulo: 'Haz ejercicio',
       desc: 'Hacer ejercicio regularmente, al menos 3-5 veces a la semana.',
-      redirectTo:'/comer-bien',
+      redirectTo:'/ejercicio',
     },
     {
       img: '/assets/vegetables.svg',

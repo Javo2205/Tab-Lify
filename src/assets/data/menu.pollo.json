@@ -64,5 +64,65 @@
       "name": "Pollo piacnte con garbanzos",
       "redirectTo": "/garbanzoa",
       "calorias": "298 kcal"
+    },
+    {
+      "img": "assets/recetario/pollo/crujiente.jpeg",
+      "name": "Enslada cesar con pollo crujiente",
+      "redirectTo": "/crujiente",
+      "calorias": "499 kcal"
+    },
+    {
+      "img": "assets/recetario/pollo/hierbas.jpeg",
+      "name": "Pinchitos de pollo a las finas hierbas",
+      "redirectTo": "/hierbas",
+      "calorias": "255 kcal"
+    },
+    {
+      "img": "assets/recetario/pollo/champinones.jpeg",
+      "name": "Pollo con brocoli y champiñones",
+      "redirectTo": "/champinones",
+      "calorias": "292 kcal"
+    },
+    {
+      "img": "assets/recetario/pollo/coreana.jpeg",
+      "name": "Ensalada de pollo coreana",
+      "redirectTo": "/p-coreana",
+      "calorias": "607 kcal"
+    },
+    {
+      "img": "assets/recetario/pollo/parrilla.jpeg",
+      "name": "Ensalada de quinoa con pollo a la parrilla",
+      "redirectTo": "/parilla",
+      "calorias": "556 kcal"
+    },
+    {
+      "img": "assets/recetario/pollo/coco.jpeg",
+      "name": "Pollo asado al cury de coco",
+      "redirectTo": "/coco",
+      "calorias": "398 kcal"
+    },
+    {
+      "img": "assets/recetario/pollo/caprese.jpeg",
+      "name": "Pollo caprese",
+      "redirectTo": "/caprese",
+      "calorias": "444 kcal"
+    },
+    {
+      "img": "assets/recetario/pollo/nueces.jpeg",
+      "name": "Bagel de pollo con nueces y arandonos rojos",
+      "redirectTo": "/nueces",
+      "calorias": "658 kcal"
+    },
+    {
+      "img": "assets/recetario/pollo/miel.jpeg",
+      "name": "Pollo a la miel y mostaza con brocoli",
+      "redirectTo": "/miel",
+      "calorias": "460 kcal"
+    },
+    {
+      "img": "assets/recetario/pollo/wraps.jpeg",
+      "name": "Wraps de pollo picantes",
+      "redirectTo": "/wraps",
+      "calorias": "332 kcal"
     }
   ]

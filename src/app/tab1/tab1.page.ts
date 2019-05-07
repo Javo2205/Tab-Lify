@@ -29,12 +29,6 @@ export class Tab1Page {
       titulo: 'Pescado',
       desc: 'Mira las increibles recetas que tenemos para ti',
       redirectTo: '/pescado'
-    },
-    {
-      img: '/assets/postres.jpg',
-      titulo: 'Postres',
-      desc: 'Mira las increibles recetas que tenemos para ti',
-      redirectTo: '/postres'
     }
   ];
 
