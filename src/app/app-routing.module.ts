@@ -41,6 +41,7 @@ const routes: Routes = [
   { path: 'garbanzoa', loadChildren: './recetas/pollo/recetario/garbanzoa/garbanzoa.module#GarbanzoaPageModule' },
   { path: 'comer-bien', loadChildren: './tab2/comer-bien/comer-bien.module#ComerBienPageModule' },
   { path: 'dormir-bien', loadChildren: './tab2/dormir-bien/dormir-bien.module#DormirBienPageModule' },
+  { path: 'ejercicio', loadChildren: './tab2/ejercicio/ejercicio.module#EjercicioPageModule' },
 
   
 ];
