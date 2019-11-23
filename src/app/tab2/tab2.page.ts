@@ -17,7 +17,7 @@ export class Tab2Page {
     {
       img: '/assets/vegetables.svg',
       titulo: 'Come sano',
-      desc: 'Mira todas la recomendaciones que tenemos para ti, para poder llevar una alimentacion sana',
+      desc: 'Mira todas la recomendaciones que tenemos para poder llevar una alimentacion sana',
       redirectTo:'/comer-bien',
     },
     {
